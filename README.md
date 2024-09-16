@@ -2,4 +2,4 @@
 this app was created using Java and Swing. It enables the creation, deletion, updating, searching, and saving of student data.
 
 # View
-![](https://github.com/haduylong/Quan_ly_sinh_vien/assets/images/overview.png)
+![](https://github.com/haduylong/Quan_ly_sinh_vien/blob/main/assets/images/overview.png)
